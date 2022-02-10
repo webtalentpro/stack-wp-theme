@@ -1,0 +1,4 @@
+a:4:{s:8:"template";s:5:"stack";s:4:"mods";a:5:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:12:"primary_menu";i:21;}s:18:"custom_css_post_id";i:852;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1644480280;s:4:"data";a:1:{s:19:"wp_inactive_widgets";a:12:{i:0;s:8:"search-1";i:1;s:14:"recent-posts-1";i:2;s:15:"media_gallery-1";i:3;s:11:"tag_cloud-1";i:4;s:7:"pages-1";i:5;s:14:"recent-posts-2";i:6;s:6:"text-1";i:7;s:7:"block-2";i:8;s:7:"block-3";i:9;s:7:"block-4";i:10;s:7:"block-5";i:11;s:7:"block-6";}}}s:11:"custom_logo";i:827;}s:7:"options";a:2:{s:9:"site_icon";s:3:"829";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:47:".team-img img {
+	width: 100%;
+	height: 270px;
+}";}
